@@ -1,0 +1,26 @@
+/* RecipeList.css */
+
+/* Table styles */
+table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  th,
+  td {
+    padding: 8px;
+    text-align: left;
+  }
+  
+
+  .content_td {
+    max-width: 100%;
+    overflow: auto;
+  }
+  
+
+  .recipe-photo {
+    width: 100%;
+    height: auto;
+    object-fit: scale-down;
+  }
